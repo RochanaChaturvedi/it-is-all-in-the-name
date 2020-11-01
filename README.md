@@ -12,3 +12,8 @@ Please cite the work if you find it useful: <br/>
       archivePrefix={arXiv}, <br/>
       primaryClass={cs.CL} <br/>
 }
+
+Contact
+
+* [RochanaC](https://twitter.com/rochanac?lang=en)
+* [SugatC](https://sites.google.com/view/sugatchaturvedi/home)
