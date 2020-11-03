@@ -4,6 +4,7 @@ This repository provides the replication code for the paper [It's All in the Nam
 Our training data set is proprietary. Therefore, we can provide a hand-annotated dataset (available on request for academic purposes only).
 
 If you find it useful please cite the work as: <br/>
+
 Chaturvedi, Rochana, & Chaturvedi, Sugat. 2020. It’s All in the Name: A Character BasedApproach To Infer Religion. arXiv preprint arXiv:2010.14479. <br/>
 
 BibTeX: <br/>
