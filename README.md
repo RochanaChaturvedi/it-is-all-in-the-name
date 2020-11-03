@@ -7,14 +7,14 @@ Please cite the work if you find it useful: <br/>
 Chaturvedi, Rochana, & Chaturvedi, Sugat. 2020. It’s All in the Name: A Character BasedApproach To Infer Religion.arXiv preprint arXiv:2010.14479 <br/>
 
 BibTeX: <br/>
-@article{chaturvedi2020s,
-  title={It's All in the Name: A Character Based Approach To Infer Religion},
-  author={Chaturvedi, Rochana and Chaturvedi, Sugat},
-  journal={arXiv preprint arXiv:2010.14479},
-  year={2020}
+@article{chaturvedi2020s, <br/>
+  title={It's All in the Name: A Character Based Approach To Infer Religion}, <br/>
+  author={Chaturvedi, Rochana and Chaturvedi, Sugat}, <br/>
+  journal={arXiv preprint arXiv:2010.14479}, <br/>
+  year={2020} <br/>
 }
 
 Contact
 
 * [RochanaC](https://twitter.com/rochanac?lang=en)
-* [SugatC](https://sites.google.com/view/sugatchaturvedi/home)
+* [Sugat Chaturvedi](https://sites.google.com/view/sugatchaturvedi/home): sugat [dot] chaturvedi [at] gmail [dot] com
