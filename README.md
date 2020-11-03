@@ -1,10 +1,10 @@
 # It's All in the Name
 
 This repository provides the replication code for the paper [It's All in the Name:  A Character Based Approach To Infer Religion](https://arxiv.org/abs/2010.14479).
-Our training data set is proprietory. Therefore, we can provide a hand-annotated dataset (available on request for academic purposes only).
+Our training data set is proprietary. Therefore, we can provide a hand-annotated dataset (available on request for academic purposes only).
 
 If you find it useful please cite the work as: <br/>
-Chaturvedi, Rochana, & Chaturvedi, Sugat. 2020. It’s All in the Name: A Character BasedApproach To Infer Religion. arXiv preprint arXiv:2010.14479 <br/>
+Chaturvedi, Rochana, & Chaturvedi, Sugat. 2020. It’s All in the Name: A Character BasedApproach To Infer Religion. arXiv preprint arXiv:2010.14479. <br/>
 
 BibTeX: <br/>
 @article{chaturvedi2020s, <br/>
@@ -14,7 +14,7 @@ BibTeX: <br/>
   year={2020} <br/>
 }
 
-Contact
+Contact:
 
 * [RochanaC](https://twitter.com/rochanac?lang=en)
 * [Sugat Chaturvedi](https://sites.google.com/view/sugatchaturvedi/home): sugat [dot] chaturvedi [at] gmail [dot] com
