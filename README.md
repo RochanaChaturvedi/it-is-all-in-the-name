@@ -11,7 +11,7 @@ As a cautionary measure, we are not sharing our models with this repository. If 
 The models can make predictions using single person's name, however the accuracy improves when we combine a person's name with the name of a relative such as parent/spouse.
 
 ## Licence and citation
-The code is licenced under AGPL-3.0 licence (see LICENCE).
+The code is licenced under GNU Affero General Public License version 3 (AGPL-3.0, see LICENCE).
 
 If you find the work useful please cite it as: <br/>
 Chaturvedi, Rochana, & Chaturvedi, Sugat. 2020. It’s All in the Name: A Character BasedApproach To Infer Religion. arXiv preprint arXiv:2010.14479. <br/>
