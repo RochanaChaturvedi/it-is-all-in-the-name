@@ -1,6 +1,6 @@
 # It's All in the Name
 
-This repository provides the replication code in python 3.0 for the paper [It's All in the Name:  A Character Based Approach To Infer Religion](https://arxiv.org/abs/2010.14479) where we predict religion from personal names only. We train character based classifiers: logistic regression, support vector machine as well as convolutional neural network. The models can predict religion, i.e., Buddhist, Christian, Hindu, Jain, Muslim and Sikh with high accuracy and provide hundred percent coverage.
+This repository provides the replication code in python 3.0 for the paper [It's All in the Name:  A Character Based Approach To Infer Religion](https://arxiv.org/abs/2010.14479) where we predict religion from personal names only. We train character based classifiers: logistic regression, support vector machine as well as convolutional neural network. The models can predict religion, i.e., Buddhist, Christian, Hindu, Jain, Muslim and Sikh with over 97% accuracy and provide 100% coverage.
 
 ## Datasets and Models
 The models are trained using Rural Economic and Demographic Survey collected by the National Council of Applied Economic Research. This data set is proprietary. Therefore, we annotate the religion of 20,000 randomly selected household heads from rural Uttar Pradesh largely comprising Hindus and Muslims. This dataset can be used to test for improvements in subsequent works (available on request for academic purposes only). 
