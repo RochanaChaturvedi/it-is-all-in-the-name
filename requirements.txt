@@ -1,0 +1,17 @@
+#The notebook was run using google colaboratory with GPU setting
+#pip install -r requirements.txt
+Keras==2.4.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+keras-vis==0.4.1
+matplotlib==3.2.1
+numpy==1.18.4
+pandas==1.0.3
+regex==2019.12.20
+scikit-learn==0.22.2.post1
+sklearn==0.0
+tensorflow==1.15
+git+https://github.com/marcoancona/DeepExplain.git#egg=deepexplain
+keras-tuner==1.0.2 
+scikit-optimize==0.8.1 
+hyperopt==0.1.2
