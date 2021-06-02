@@ -5,7 +5,7 @@ This repository provides the Python 3.0 replication code for the paper [It's All
 ## Datasets and Models
 The models are trained using Rural Economic and Demographic Survey collected by the National Council of Applied Economic Research. This data set is proprietary. Therefore, we annotate the religion of 20,000 randomly selected household heads from rural Uttar Pradesh largely comprising Hindus and Muslims. This dataset can be used to test for improvements in subsequent works (available on request for academic purposes only). 
 
-As a cautionary measure, we are not sharing our models with this repository. If you are an academic researcher, please feel free to shoot us an email and we will be happy to provide you the trained models and answer any questions.
+As a cautionary measure, we are not sharing our models with this repository. If you are an academic researcher, please feel free to shoot us an email and we will be happy to answer any questions.
 
 ## How to improve Predictions
 The models can make predictions using single person's name, however the accuracy improves when we combine a person's name with the name of a relative such as parent/spouse.
