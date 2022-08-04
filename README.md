@@ -10,7 +10,7 @@ If you are an academic researcher, please feel free to shoot us an email and we 
 ## How to improve Predictions
 The models can make predictions using single person's name, however the accuracy improves when we combine a person's name with the name of a relative such as parent/spouse.
 
-## Licence and citation
+## License and citation
 The code is licenced under GNU Affero General Public License version 3 (AGPL-3.0, see LICENCE).
 
 If you find the work useful please cite it as: <br/>
