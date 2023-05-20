@@ -1,5 +1,29 @@
-# It's All in the Name
+Note: This repository is now deprecated and the updated code is made available at following Harvard Dataverse link: https://doi.org/10.7910/DVN/JOEVPN
 
+If you find the work useful, please cite our paper and the dataverse entry as follows:
+BibTeX: <br/>
+@article{chaturvedi2020s, <br/>
+@article{chaturvedi_chaturvedi_2023, <br/>
+title={It’s All in the Name: A Character-Based Approach to Infer Religion}, <br/>
+DOI={10.1017/pan.2023.6}, <br/>
+journal={Political Analysis}, <br/>
+publisher={Cambridge University Press},<br/>
+author={Chaturvedi, Rochana and Chaturvedi, Sugat}, <br/>
+year={2023},<br/>
+pages={1–16}<br/>
+}
+
+@data{DVN/JOEVPN_2023,<br/>
+author = {Chaturvedi, Rochana and Chaturvedi, Sugat},<br/>
+publisher = {Harvard Dataverse},<br/>
+title = {{Replication Data for: It’s All in the Name: A Character Based Approach to Infer Religion}},<br/>
+year = {2023},<br/>
+version = {V1},<br/>
+doi = {10.7910/DVN/JOEVPN},<br/>
+url = {https://doi.org/10.7910/DVN/JOEVPN}<br/>
+}
+
+# It's All in the Name
 This repository provides the Python 3.0 replication code for the paper [It's All in the Name:  A Character Based Approach To Infer Religion](https://arxiv.org/abs/2010.14479) where we predict religion from personal names only. We train character based classifiers: logistic regression, support vector machine as well as convolutional neural network. The models can predict religion, i.e., Buddhist, Christian, Hindu, Jain, Muslim and Sikh with over 97% accuracy and provide 100% coverage.
 
 ## Datasets and Models
@@ -13,16 +37,6 @@ The models can make predictions using single person's name, however the accuracy
 ## License and citation
 The code is licenced under GNU Affero General Public License version 3 (AGPL-3.0, see LICENCE).
 
-If you find the work useful please cite it as: <br/>
-Chaturvedi, Rochana, & Chaturvedi, Sugat. 2020. It’s All in the Name: A Character BasedApproach To Infer Religion. arXiv preprint arXiv:2010.14479. <br/>
-
-BibTeX: <br/>
-@article{chaturvedi2020s, <br/>
-  title={It's All in the Name: A Character Based Approach To Infer Religion}, <br/>
-  author={Chaturvedi, Rochana and Chaturvedi, Sugat}, <br/>
-  journal={arXiv preprint arXiv:2010.14479}, <br/>
-  year={2020} <br/>
-}
 
 ## Contact:
 
