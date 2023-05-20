@@ -1,8 +1,7 @@
 Note: This repository is now deprecated and the updated code is made available at following Harvard Dataverse link: https://doi.org/10.7910/DVN/JOEVPN
 
 If you find the work useful, please cite our paper and the dataverse entry as follows:
-BibTeX: <br/>
-@article{chaturvedi2020s, <br/>
+
 @article{chaturvedi_chaturvedi_2023, <br/>
 title={It’s All in the Name: A Character-Based Approach to Infer Religion}, <br/>
 DOI={10.1017/pan.2023.6}, <br/>
